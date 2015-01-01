@@ -1,15 +1,111 @@
 ---
-title:  Lorem Ipsum
-tags: lorem ipsum
+layout: post
+title: Sample Post
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+modified: 2013-05-31
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam posuere neque sed mi dignissim sollicitudin. Vivamus ac lectus tincidunt, consequat urna nec, luctus mauris. Sed vehicula mattis odio molestie tincidunt. Maecenas laoreet malesuada venenatis. Ut non leo lorem. Nam feugiat scelerisque massa, sit amet semper nibh dignissim non. Pellentesque eget quam id sem pharetra pretium at viverra ligula. Suspendisse potenti. Morbi in lobortis felis. Cras dictum ut nisi eu finibus. Fusce in scelerisque mauris.
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-Proin eleifend urna porttitor enim ultricies luctus. Proin facilisis venenatis lectus. Nullam scelerisque cursus eros, ac aliquet nisl molestie at. Suspendisse quis bibendum neque. Praesent dignissim luctus lorem, non consequat enim aliquam quis. Morbi eget sapien libero. Ut elementum faucibus purus et condimentum. Vestibulum cursus, orci in vulputate vehicula, enim mi cursus dui, in tempor quam orci id ligula. Nullam ultricies, sem nec pretium fermentum, orci lorem ultricies tellus, at laoreet dolor tortor ac nibh. Morbi quis hendrerit purus. Pellentesque mattis a risus sit amet bibendum.
+## HTML Elements
 
-Donec congue nulla at sapien tincidunt aliquet. Quisque ut hendrerit nisl. In ac erat sollicitudin, pharetra felis sed, posuere leo. In pulvinar lorem id justo ultricies vulputate. Donec in accumsan neque. Nulla nisl ante, aliquam in interdum id, mattis quis purus. Morbi est libero, hendrerit at convallis sed, mollis ut ex.
+Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent venenatis tortor eget est efficitur, sed lobortis arcu faucibus. Aenean congue, massa at placerat ullamcorper, metus diam commodo odio, in interdum tellus nisl in ligula. Suspendisse tincidunt libero in mauris dictum eleifend. Nullam accumsan urna nec dolor fermentum, vehicula gravida erat cursus. Sed rutrum quam ac nulla varius, eget laoreet mauris aliquet. Integer ut tortor elit. Nulla in est purus. Nam convallis tortor consectetur posuere venenatis. Proin at felis feugiat, convallis mauris in, fermentum urna.
+# Heading 1
 
-Donec lorem sapien, maximus sit amet viverra ut, vehicula sed urna. Maecenas nulla quam, sodales vitae bibendum et, varius quis mi. Praesent ullamcorper purus est, non aliquam quam porttitor et. Curabitur molestie neque velit, vitae iaculis orci commodo eu. Ut ultrices id nibh quis elementum. Ut eu metus dolor. In hac habitasse platea dictumst. Donec felis dolor, porta ut nisi eget, tempor convallis elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam quis est ornare, lacinia nibh dignissim, fringilla ante. Nullam a orci nisl. Donec ante eros, convallis eu ante nec, convallis auctor mi. Pellentesque ac pulvinar erat. Proin imperdiet dictum nunc, rutrum eleifend purus finibus in.
+## Heading 2
 
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+### Body text
+
+Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
+![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+{: .image-pull-right}
+
+*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+
+### Blockquotes
+
+> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+
+## List Types
+
+### Ordered Lists
+
+1. Item one
+   1. sub item one
+   2. sub item two
+   3. sub item three
+2. Item two
+
+### Unordered Lists
+
+* Item one
+* Item two
+* Item three
+
+## Tables
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+## Code Snippets
+
+{% highlight css %}
+#container {
+  float: left;
+  margin: 0 -240px 0 0;
+  width: 100%;
+}
+{% endhighlight %}
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+{% highlight html %}
+<a href="#" class="btn btn-success">Success Button</a>
+{% endhighlight %}
+
+<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
