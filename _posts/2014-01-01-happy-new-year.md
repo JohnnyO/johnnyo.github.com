@@ -7,6 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: false
 image:
   feature: new-years-eve.jpg
+  teaser:  new-years-eve.jpg
   credit: flickr/viajor
   creditlink: https://www.flickr.com/photos/viajor/11688121595/
 ---
