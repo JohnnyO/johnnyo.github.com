@@ -7,9 +7,6 @@ teaser: # 400x250 px default teaser image used in image archive grid
 locale:
 url:  http://blog.johnnyo.org
 
-author:
-  name:  JohnnyO
-  avatar:  johnnyo.jpg
 
 # Jekyll configuration
 
@@ -31,8 +28,8 @@ owner:
   google:
     ad-client: 
     ad-slot: 
-  bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: Just another random guy rambling on the internet.  I wouldn't trust anything he says.
+  avatar: johnnyo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
