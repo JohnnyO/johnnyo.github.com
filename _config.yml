@@ -13,7 +13,7 @@ url:  http://blog.johnnyo.org
 sass:
     sass_dir: _sass
     style: compressed
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: pygments
 gems:
