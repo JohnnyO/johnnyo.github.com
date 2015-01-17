@@ -4,8 +4,18 @@
   url:  /
   excerpt: Homepage
   image:
+
+- title: Topic One
+  url:  /about/
+  excerpt:  Lorem Ipsum dolor sit amet
+  image:
+  
+- title: Topic Two
+  url:  /about/
+  excerpt:  Bacon ipsum dolor amet shoulder leberkas turkey boudin andouille tail filet mignon rump
+  image:
   
 - title: About
   url:  /about/
   excerpt:  About
-  image:
+  image:  johnnyo.org
