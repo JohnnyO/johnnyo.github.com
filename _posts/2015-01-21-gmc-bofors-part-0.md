@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Research : GMC Bofors 40mm Gun 
+title: Research into GMC Bofors 40mm Gun 
 excerpt: "The first step in any project is doing your homework."
 modified: 2015-01-21
 tags: [bofors, gmc, scalemodel, research]
