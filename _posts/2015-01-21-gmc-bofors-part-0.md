@@ -1,25 +1,25 @@
 ---
 layout: article
-title: GMC Bofors 40mm Gun Research
+title: Research : GMC Bofors 40mm Gun 
 excerpt: "The first step in any project is doing your homework."
 modified: 2015-01-21
 tags: [bofors, gmc, scalemodel, research]
 comments: true
-category: scalemodel
 image:
   feature: gmc-bofors/french-soldiers-posing.jpg
   teaser:  gmc-bofors/french-soldiers-posing.jpg
   credit: Unknown
-  creditlink: Unknown
+  creditlink: 
 ---
+Before I start any new kit, I like to do some research into the subject matter.  I'm not overly obsessed with rivet counting  in my builds, but I do like to learn more about the subjects I'm working on before I tackle them.  In some cases, I find this part of the process to be just as interesting as the construction process itself.  For this kit, I'll be working on a GMC Bofors 40mm Gun, a mobile anti-aircraft system that was unique to the free French forces during World War Two.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis erat ipsum, ut aliquet ipsum suscipit et. Curabitur scelerisque ex id massa pellentesque, non aliquet enim consectetur. Nullam laoreet auctor felis tincidunt convallis. Aliquam ac enim dui. Pellentesque varius velit lectus. Aliquam sit amet nulla sed urna tristique convallis eget non neque. Donec tellus ligula, luctus vel lectus non, hendrerit consequat leo. Duis vehicula accumsan ipsum, et vestibulum massa pharetra eget. Cras nibh diam, egestas sed massa ac, venenatis posuere quam. Morbi quis maximus metus. Duis convallis nisl ac nisl maximus vulputate. Vestibulum finibus eros vitae velit sagittis, quis aliquet nulla fermentum. Duis odio purus, facilisis a risus non, sollicitudin congue elit. Cras iaculis euismod purus vitae mattis. Morbi quam nunc, porta non lacus ac, eleifend vestibulum massa. Etiam aliquam elit vulputate mattis ultricies.
+## History
 
-Donec vel neque sit amet urna eleifend rhoncus. Maecenas quam metus, interdum id scelerisque eu, eleifend eget elit. Vivamus vestibulum massa ac justo facilisis sodales. Curabitur eleifend, dolor in viverra hendrerit, mauris nibh imperdiet leo, eu venenatis urna velit eu enim. Duis eu eleifend turpis. Sed placerat luctus tempus. In hac habitasse platea dictumst. Phasellus eu blandit tortor, nec laoreet sem. Donec viverra leo eget vehicula sagittis.
+The kit name is a bit confusing because, as far as I'm aware, the weapon system doesn't have any sort of official name, like something that was produced from a factory.  That's because this system is actually the combination of two well-known pieces of machinery into something new.  The first half of this system is the [GMC CCKW](http://en.wikipedia.org/wiki/GMC_CCKW), also known as the "Deuce and a Half".  This GMC truck was a workhorse of the Allied military in WWII, serving in various roles such as a supply truck or a mobile medical van.  The US produced almost half a million of these trucks throughout the war, and they were given to our allies as well, including the French.
 
-Etiam at euismod arcu. Suspendisse eu ullamcorper lacus, quis lacinia dui. Vivamus suscipit elementum ipsum. Etiam volutpat purus id leo mollis, non tempus nibh blandit. Aenean mollis congue felis non aliquet. Vivamus hendrerit ullamcorper neque, nec iaculis neque rhoncus eget. Morbi a pulvinar nunc.
+The second piece of equipment is the [40mm Bofors Gun](http://en.wikipedia.org/wiki/Bofors_40_mm_gun) which was one of the most popular antiaircraft systems in World War II.  These guns were used both on ships as well as on land.  The land units were wheeled, and as such could be repositioned/towed into location when needed.   According to my research, the French were provided with a number of Bofors Gun, along with several GMC CCKWs in order tow them.  However, some enterprising French soldier/engineer decided that it would be much simpler to simply place the gun directly on the truck.  This required them to rip apart the rear of the truck and build a new mounting for the gun, but overall, its a rather ingenious idea.  And thus, the GMC Bofors 40mm gun was born.     
 
-Cras at massa ut metus pulvinar dignissim. Donec venenatis porttitor lacus id fringilla. Curabitur non feugiat ex, ut euismod sapien. Cras nulla felis, vulputate id neque eget, pellentesque congue velit. Maecenas convallis eros a justo auctor mollis. Sed bibendum lectus commodo lorem auctor fringilla. Curabitur tristique commodo lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam mollis risus at libero pretium tristique.
 
-Etiam tempus urna in euismod semper. Proin sed hendrerit libero. Quisque et mollis nisl. Donec tempus, urna eu volutpat commodo, tortor sapien venenatis dui, vel consequat nibh magna sed eros. Sed mollis diam eu lectus eleifend mollis. Maecenas sit amet ante vel eros pulvinar mattis non a quam. Phasellus sit amet dui aliquam, sodales purus et, pellentesque lorem. Phasellus eget sem volutpat lectus tristique rutrum. Cras fringilla id augue a faucibus. Aliquam posuere, erat quis venenatis luctus, justo nisi fringilla sapien, ut tincidunt lorem quam accumsan nulla. Donec scelerisque lorem eget tellus sodales suscipit. Fusce consequat commodo vehicula.
+## Kit Details
 
+  For this build, I'll be tackling the [GMC Bofors 40mm Gun](https://www.scalemates.com/products/product.php?id=134606) from HobbyBoss.   The kit is 1:35 scale, and primarly molded in an olive green color.  In addition to the main sprues, you also a clear sprue for windows and lens covers, a sheet of photoetch, a set of decals, and even some string for making the tow rope on the front of the vehicle.
