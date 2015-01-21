@@ -143,9 +143,7 @@
 
 #main {
 	.inner-wrap {
-		@include media($medium) {
-			@include span-columns(9);
-		}
+		@include fill-parent;
 	}
 	.toc {
 		@include media($medium) {
@@ -160,13 +158,7 @@
 	}
 	@at-root {
 		.page-content {
-			@include media($medium) {
-				@include row($direction: RTL);
-				//@include span-columns(9 of 9);
-			}
-			@include media($large) {
-				@include span-columns(9 of 9);
-			}
+			@include fill-parent;
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
