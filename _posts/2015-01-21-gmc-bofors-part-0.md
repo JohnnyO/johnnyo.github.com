@@ -9,7 +9,7 @@ image:
   feature: gmc-bofors/french-soldiers-posing.jpg
   teaser:  gmc-bofors/french-soldiers-posing.jpg
   credit: Unknown
-  creditlink: 
+  creditlink: Unknown
 ---
 Before I start any new kit, I like to do some research into the subject matter.  I'm not overly obsessed with rivet counting  in my builds, but I do like to learn more about the subjects I'm working on before I tackle them.  In some cases, I find this part of the process to be just as interesting as the construction process itself.  For this kit, I'll be working on a GMC Bofors 40mm Gun, a mobile anti-aircraft system that was unique to the free French forces during World War Two.
 
@@ -22,4 +22,4 @@ The second piece of equipment is the [40mm Bofors Gun](http://en.wikipedia.org/w
 
 ## Kit Details
 
-  For this build, I'll be tackling the [GMC Bofors 40mm Gun](https://www.scalemates.com/products/product.php?id=134606) from HobbyBoss.   The kit is 1:35 scale, and primarly molded in an olive green color.  In addition to the main sprues, you also a clear sprue for windows and lens covers, a sheet of photoetch, a set of decals, and even some string for making the tow rope on the front of the vehicle.
+For this build, I'll be tackling the [GMC Bofors 40mm Gun](https://www.scalemates.com/products/product.php?id=134606) from HobbyBoss.   The kit is 1:35 scale, and primarly molded in an olive green color.  In addition to the main sprues, you also a clear sprue for windows and lens covers, a sheet of photoetch, a set of decals, and even some string for making the tow rope on the front of the vehicle.
