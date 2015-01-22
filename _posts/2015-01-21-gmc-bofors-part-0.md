@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Research into GMC Bofors 40mm Gun 
+title: History of the GMC Bofors 40mm Gun 
 excerpt: "The first step in any project is doing your homework."
 modified: 2015-01-21
 tags: [bofors, gmc, scalemodel, research]
@@ -11,15 +11,14 @@ image:
   credit: Unknown
   creditlink: Unknown
 ---
-Before I start any new kit, I like to do some research into the subject matter.  I'm not overly obsessed with rivet counting  in my builds, but I do like to learn more about the subjects I'm working on before I tackle them.  In some cases, I find this part of the process to be just as interesting as the construction process itself.  For this kit, I'll be working on a GMC Bofors 40mm Gun, a mobile anti-aircraft system that was unique to the free French forces during World War Two.
-
 ## History
 
-The kit name is a bit confusing because, as far as I'm aware, the weapon system doesn't have any sort of official name, like something that was produced from a factory.  That's because this system is actually the combination of two well-known pieces of machinery into something new.  The first half of this system is the [GMC CCKW](http://en.wikipedia.org/wiki/GMC_CCKW), also known as the "Deuce and a Half".  This GMC truck was a workhorse of the Allied military in WWII, serving in various roles such as a supply truck or a mobile medical van.  The US produced almost half a million of these trucks throughout the war, and they were given to our allies as well, including the French.
+The name of this piece of equipment is a bit confusing because, as far as I'm aware, the weapon system doesn't have an official designation, as is common with most Allied  weaponry produced in the war.  That's because this system is actually the combination of two well-known pieces of machinery into something entirely new.  The first half of this system is the [GMC CCKW](http://en.wikipedia.org/wiki/GMC_CCKW), also known as the "Deuce and a Half".  This GMC truck was a workhorse of the Allied military in WWII, serving in various roles such as a supply truck or a mobile medical van.  The US produced almost half a million of these trucks throughout the war, and they were given to allies as well, including the French.
 
-The second piece of equipment is the [40mm Bofors Gun](http://en.wikipedia.org/wiki/Bofors_40_mm_gun) which was one of the most popular antiaircraft systems in World War II.  These guns were used both on ships as well as on land.  The land units were wheeled, and as such could be repositioned/towed into location when needed.   According to my research, the French were provided with a number of Bofors Gun, along with several GMC CCKWs in order tow them.  However, some enterprising French soldier/engineer decided that it would be much simpler to simply place the gun directly on the truck.  This required them to rip apart the rear of the truck and build a new mounting for the gun, but overall, its a rather ingenious idea.  And thus, the GMC Bofors 40mm gun was born.     
+The second piece of equipment is the [40mm Bofors Gun](http://en.wikipedia.org/wiki/Bofors_40_mm_gun) which was one of the most popular anti-aircraft systems in World War II.  First developed in Sweden, they were a mainstay of the Allied weapon inventory.  These guns were extremely powerful, capable of firing a 2 pound high explosive shell at almost 3000 ft/s, at a over 100 rounds per minute.  Mounted on a base with full 360 rotation, the gun could swing around and target aircraft attacking from any direction.  The Allies used them both on land and at sea.
+
+ Many of the land units were built atop field carriages, and could be repositioned/towed into location wherever needed.   According to my research, the French were provided with a number of Bofors Gun, along with several GMC CCKWs in order tow them.  However, in 1944, when the 22nd Colonial Group joined the 2nd French Armoured Division, someone had the bright idea to take the Bofors off of their field carriage and mount them directly onto the back of the GMC truck.  And thus, the unique GMC Bofors gun was born.  As far as I am aware, these were used exclusively by the French in WWII.   (See "The Bofors Gun" by Terry Gander, pg 214 for more information).  The picture at the top of this post shows the crew of one of these trucks posing in front of the equipment. 
+ 
+ 
 
 
-## Kit Details
-
-For this build, I'll be tackling the [GMC Bofors 40mm Gun](https://www.scalemates.com/products/product.php?id=134606) from HobbyBoss.   The kit is 1:35 scale, and primarly molded in an olive green color.  In addition to the main sprues, you also a clear sprue for windows and lens covers, a sheet of photoetch, a set of decals, and even some string for making the tow rope on the front of the vehicle.
